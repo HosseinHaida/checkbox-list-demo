@@ -1,5 +1,8 @@
 # checkbox-list-demo
 
+![Initial Satate](capture-1.PNG?raw=true 'Initial State')
+![On User Filter](capture-2.PNG?raw=true 'On User Filter')
+
 ## Project setup
 
 ```
@@ -11,9 +14,6 @@ npm install
 ```
 npm run serve
 ```
-
-![Initial Satate](capture-1.PNG?raw=true 'Initial State')
-![On User Filter](capture-2.PNG?raw=true 'On User Filter')
 
 ### Compiles and minifies for production
 
